@@ -22,6 +22,9 @@ This course is designed for beginner to intermediate developers who want to buil
 
 **⚠️ Instruction**
 
+- Sign up for 10,000 free mins: [Sign up](https://bit.ly/3UuDmjc)
+- Find out more about ZEGOCLOUD: [ZEGOCLOUD Docs](https://bit.ly/3tr3kbq)
+- How to build live streaming app: [More Tutorials](https://bit.ly/3Tn9mol)
 - For the very first, run `flutter pub get` on your favorite IDE
 - You need to open .env file and replace the required AppID and AppSign with your own. You can get from ZEGOCLOUD Console.
 
